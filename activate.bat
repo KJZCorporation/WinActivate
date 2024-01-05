@@ -14,15 +14,10 @@ EXIT
 color 6
 cls
 echo:
-echo:  ####      ##     ##   ##  ##  ##   ##  ##   ##  ##     ##     ##        ####   
-echo:   ##      ####    ### ###  ## ##    ##  ##   ### ##    ####    ##       ##  ##  
-echo:   ##     ##  ##   #######  ####     ##  ##   ######   ##  ##   ##       ##  ##  
-echo:   ##     ######   ## # ##  ###      ##  ##   ######   ######   ##        #####  
-echo:   ##     ##  ##   ##   ##  ####     ##  ##   ## ###   ##  ##   ##           ##  
-echo:   ##     ##  ##   ##   ##  ## ##    ##  ##   ##  ##   ##  ##   ##       ##  ##  
-echo:  ####    ##  ##   ##   ##  ##  ##    ####    ##  ##   ##  ##   ######    ####  HERE!
+echo KJZ Free Windows Activation Tool
+echo Use at your OWN RISK!
 echo: 
-echo SELECT WINDOWS VERSION(CHECK BY TYPING WINVER IN RUN (WIN+R))
+echo SELECT WINDOWS VERSION (CHECK BY TYPING WINVER IN RUN (WIN+R) OR CMD)
 echo [1] Home
 echo [2] Professional
 echo [3] Education
